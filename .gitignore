@@ -1,3 +1,4 @@
 highres
 lowres
 video/*
+*.ckpt
